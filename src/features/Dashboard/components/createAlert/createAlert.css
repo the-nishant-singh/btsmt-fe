@@ -1,0 +1,50 @@
+.createalert_wrapper {
+    background-color: white;
+    height: 100%;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 1rem;
+    color: black;
+    overflow: auto;
+}
+
+.createalert_title {
+    margin: 0 0 0.5rem 0;
+}
+
+.custom_input {
+    height: 2rem;
+    width: -webkit-fill-available;
+    padding: 0.1rem 0.5rem;
+    border-radius: 10px;
+    border: 1px solid black;
+    outline: #0d1148;
+    margin-top: 0.5rem;
+}
+
+.custom_input::placeholder{
+    padding: 0 0.5rem;
+    font-size: 0.7rem;
+}
+
+.error_message_alert {
+    color: red;
+    font-size: 0.7rem;
+}
+
+.succ_message_alert {
+    color: green;
+    font-size: 0.7rem;
+}
+
+.form_label {
+    font-size: 0.7rem;
+    margin-top: 0.4rem;
+    display: block;
+}
+
+.btn_container_alert {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}

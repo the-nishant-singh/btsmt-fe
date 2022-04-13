@@ -1,0 +1,13 @@
+.datatable_wrapper {
+    background-color: white;
+    height: 100%;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 1rem;
+    color: black;
+}
+
+.pagination_container {
+    display: flex;
+    justify-content: flex-end;
+}

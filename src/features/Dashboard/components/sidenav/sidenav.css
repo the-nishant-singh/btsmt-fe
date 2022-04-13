@@ -1,0 +1,46 @@
+.sidenav_title {
+    margin: 0;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.profile_component {
+    display: flex;
+    align-items: center;
+}
+
+.profile_image {
+    border-radius: 50%;
+    margin-right: 0.5rem;
+}
+
+.sidenav_username {
+    margin: 0;
+    font-weight: bold;
+}
+
+.side_nav_id {
+    font-size: 0.6rem;
+    color: #6c6e8b;
+}
+
+.sidenav_icons {
+    color: white;
+}
+
+.list_expand_wrapper {
+    background-color: #515376;
+    border-radius: 20px;
+}
+
+.logout_wrapper {
+    margin-top: 2rem;
+}
+
+.list_item {
+    font-size: 0.7rem !important;
+}
+
+.sidenav_list {
+    margin-top: 1.5rem;
+}

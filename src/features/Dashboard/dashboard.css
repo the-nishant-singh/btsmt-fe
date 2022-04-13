@@ -1,0 +1,17 @@
+.sidenav_container {
+    width: 17%;
+    padding: 1.2rem 1rem;
+}
+
+.components_container {
+    width: 83%;
+    margin: 0.6rem;
+    padding: 1rem;
+    background-color: #dde1e8;
+    border-radius: 20px;
+}
+
+.dashboard_container {
+    display: flex;
+    height: 100vh;
+}
